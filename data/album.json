@@ -1,0 +1,325 @@
+{
+    "Album":
+    [
+        {
+            "src": "images/picasso1.jpg",
+            "title": "Les Demoiselles d'Avignon",
+            "artist": "Pablo Picasso",
+            "location": "Museum of Modern Art",
+            "period": "Cubism",
+            "year": "1907–1907",
+            "media": "Oil paint",
+            "size": ["96", "92", "in"],
+            "annotations":
+            [
+			{
+				"type":"ellipse",
+				"relative_x": 0.25,
+				"relative_y": 0.2,
+                "relative_height": 0.15,
+                "relative_width": 0.1,
+                "text":"Facing away, shows ignorance",
+                "comments":
+                [
+                    {
+                        "user":"Jane Doe",
+                        "text":"great annotation. now i understand better!"
+                    },
+                    {
+                        "user":"June Day",
+                        "text":"I think you dont understand what you are saying"
+                    },
+                    {
+                        "user":"Elder Cunningham",
+                        "text":"I really like how you say about that painting"
+                    },
+                    {
+                        "user":"Calter Smith",
+                        "text":"Doesn't make sense to me. I think you are just talking rubbish"
+                    }
+                ]
+			},
+			{
+				"type":"rectangle",
+				"relative_x": 0.8,
+				"relative_y": 0.15,
+				"relative_height": 0.15,
+				"relative_width": 0.1,
+                "text": "Represents a mask, African art's influence on Picasso's work",
+                "comments":
+                [
+                    {
+                        "user":"Kane Toe",
+                        "text":"bad text. wont read again. i am sick of reading this"
+                    },
+                    {
+                        "user":"Juke Say",
+                        "text":"Wow! very insightful, but you are a little bit inaccurate"
+                    },
+                    {
+                        "user":"Elder Price",
+                        "text":"I think I want to go to the market."
+                    },
+                    {
+                        "user":"Calter Samsonian",
+                        "text":"Totally make sense! Lorem Ipsum!!!"
+                    }
+                ]
+			},
+			{
+				"type":"ellipse",
+				"relative_x": 0.53,
+				"relative_y": 0.9,
+				"relative_height": 0.2,
+				"relative_width": 0.15,
+                "text": "a scything blade of melon with testicular grapes, an apple and a pear",
+                "comments":
+                [
+                    {
+                        "user":"Jane Donworryboutathing",
+                        "text":"great annotation. now i understand better!"
+                    },
+                    {
+                        "user":"June Day",
+                        "text":"I think you dont understand what you are saying"
+                    },
+                    {
+                        "user":"Elder Cunningham",
+                        "text":"I really like how you say about that painting"
+                    },
+                    {
+                        "user":"Calter Smith",
+                        "text":"Doesn't make sense to me. I think you are just talking rubbish"
+                    }
+                ]
+			},
+			{
+				"type":"ellipse",
+				"relative_x": 0.8,
+				"relative_y": 0.45,
+                "relative_height": 0.2,
+                "relative_width": 0.15,
+                "text": "Facing back and stares directly to the audience",
+                "comments":
+                [
+                    {
+                        "user":"Jane Doe",
+                        "text":"great annotation. now i understand better!"
+                    },
+                    {
+                        "user":"June Day",
+                        "text":"I think you dont understand what you are saying"
+                    },
+                    {
+                        "user":"Elder Cunningham",
+                        "text":"I really like how you say about that painting"
+                    },
+                    {
+                        "user":"Calter Smith",
+                        "text":"Doesn't make sense to me. I think you are just talking rubbish"
+                    }
+                ]
+			},
+            {
+                "type":"ellipse",
+                "relative_x": 0.405,
+                "relative_y": 0.255,
+                "relative_height": 0.01,
+                "relative_width": 0.01,
+                "text": "Intimidating the audience by staring",
+                "comments":
+                [
+                    {
+                        "user":"Jane Doe",
+                        "text":"great annotation. now i understand better!"
+                    },
+                    {
+                        "user":"June Day",
+                        "text":"I think you dont understand what you are saying"
+                    },
+                    {
+                        "user":"Elder Cunningham",
+                        "text":"I really like how you say about that painting"
+                    },
+                    {
+                        "user":"Calter Smith",
+                        "text":"Doesn't make sense to me. I think you are just talking rubbish"
+                    }
+                ]
+            },
+            {
+                "type":"line",
+                "relative_x1": 0.505,
+                "relative_y1": 0.355,
+                "relative_x2": 0.455,
+                "relative_y2": 0.155,
+                "text": "This line is awesome",
+                "comments":
+                [
+                    {
+                        "user":"July Day",
+                        "text":"great annotation!!!!!!!!. now i understand better!"
+                    },
+                    {
+                        "user":"June Night",
+                        "text":"I think you dont understand what you are saying"
+                    },
+                    {
+                        "user":"Younger Cunningham",
+                        "text":"I really like how you say about that painting. not."
+                    },
+                    {
+                        "user":"Calter Brown",
+                        "text":"Doesn't make sense to me. I think you are just talking gibberish"
+                    }
+                ]
+            },
+            {
+                "type":"triangle",
+                "relative_x1": 0.105,
+                "relative_y1": 0.255,
+                "relative_x2": 0.455,
+                "relative_y2": 0.355,
+                "relative_x3": 0.755,
+                "relative_y3": 0.105,
+                "text": "This triangle is awesome",
+                "comments":
+                [
+                    {
+                        "user":"July Day",
+                        "text":"great annotation!!!!!!!!. now i understand better!"
+                    },
+                    {
+                        "user":"June Night",
+                        "text":"I think you dont understand what you are saying"
+                    },
+                    {
+                        "user":"Younger Cunningham",
+                        "text":"I really like how you say about that painting. not."
+                    },
+                    {
+                        "user":"Calter Brown",
+                        "text":"Doesn't make sense to me. I think you are just talking gibberish"
+                    }
+                ]
+            }
+            ]
+        },
+        {
+            "src": "images/photo1.jpg",
+            "title": "Birds and mountains",
+            "artist": "René Reichelt",
+            "location": "",
+            "period": "",
+            "year": "",
+            "media": "",
+            "size": [],
+            "annotations":[]
+        },
+        {
+            "src": "images/photo2.jpg",
+            "title": "Mountain and skies",
+            "artist": "Jane Doe",
+            "location": "",
+            "period": "",
+            "year": "",
+            "media": "",
+            "size": [],
+            "annotations":[]
+        },
+        {
+            "src": "images/photo3.jpg",
+            "title": "Blue white stroke",
+            "artist": "John Smith",
+            "location": "",
+            "period": "",
+            "year": "",
+            "media": "",
+            "size": [],
+            "annotations":[]
+        },
+        {
+            "src": "images/photo4.jpg",
+            "title": "Scuba in the deep",
+            "artist": "Bob Carter",
+            "location": "",
+            "period": "",
+            "year": "",
+            "media": "",
+            "size": [],
+            "annotations":[]
+        },
+        {
+            "src": "images/photo5.jpg",
+            "annotations":[]
+        },
+        {
+            "src": "images/photo6.jpg",
+            "annotations":[]
+        },
+        {
+            "src": "images/photo7.jpg",
+            "annotations":[]
+        },
+        {
+            "src": "images/photo8.jpg",
+            "annotations":[]
+        },
+        {
+            "src": "images/photo9.jpg",
+            "annotations":[]
+        },
+        {
+            "src": "images/photo10.jpg",
+            "annotations":[]
+        },
+        {
+            "src": "images/photo11.jpg",
+            "annotations":[]
+        },
+        {
+            "src": "images/photo12.jpg",
+            "annotations":[]
+        },
+        {
+            "src": "images/photo13.jpg",
+            "annotations":[]
+        },
+        {
+            "src": "images/photo14.jpg",
+            "annotations":[]
+        },
+        {
+            "src": "images/photo15.jpg",
+            "annotations":[]
+        },
+        {
+            "src": "images/photo16.jpg",
+            "annotations":[]
+        },
+        {
+            "src": "images/photo17.jpg",
+            "annotations":[]
+        },
+        {
+            "src": "images/photo18.jpg",
+            "annotations":[]
+        },
+        {
+            "src": "images/photo19.jpg",
+            "annotations":[]
+        },
+        {
+            "src": "images/photo20.jpg",
+            "annotations":[]
+        },
+        {
+            "src": "images/photo21.jpg",
+            "annotations":[]
+        },
+        {
+            "src": "images/photo22.jpg",
+            "annotations":[]
+        }
+    ]
+}
