@@ -349,26 +349,22 @@ angular.module('anotareApp')
           // newShape.remove();
           changeCursorType();
           if (toolName === 'circle-tool'){
-            newAnnotation = 
-            {
+            newAnnotation = {
               "type":"ellipse",
               "comments": []
             }
           } else if (toolName === 'square-tool'){
-            newAnnotation = 
-            {
+            newAnnotation = {
               "type":"rectangle",
               "comments": []
             }
           } else if (toolName === 'line-tool'){
-            newAnnotation = 
-            {
+            newAnnotation = {
               "type":"line",
               "comments": []
             }
           } else if (toolName === 'triangle-tool'){
-            newAnnotation = 
-            {
+            newAnnotation = {
               "type":"triangle",
               "comments": []
             }

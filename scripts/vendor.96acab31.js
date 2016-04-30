@@ -54678,6 +54678,7 @@ new function() {
 		}
 		if (view) {
 			var point = viewToProject(view, event);
+			console.log(point);
 			if (dragging || view.getBounds().contains(point))
 				tool = handleMouseMove(view, point, event);
 		}
