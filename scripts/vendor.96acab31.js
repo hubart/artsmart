@@ -45070,8 +45070,9 @@ var Rectangle = Base.extend({
 	},
 
 	_containsPoint: function(point) {
-		console.log("FROM CONTAINS POINT");
-		console.log(point);
+		if (!point) {
+			return false;
+		}
 		var x = point.x,
 			y = point.y;
 		return x >= this.x && y >= this.y
