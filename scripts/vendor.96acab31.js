@@ -45070,6 +45070,8 @@ var Rectangle = Base.extend({
 	},
 
 	_containsPoint: function(point) {
+		console.log("FROM CONTAINS POINT");
+		console.log(point);
 		var x = point.x,
 			y = point.y;
 		return x >= this.x && y >= this.y
@@ -54678,7 +54680,6 @@ new function() {
 		}
 		if (view) {
 			var point = viewToProject(view, event);
-			console.log(point);
 			if (dragging || view.getBounds().contains(point))
 				tool = handleMouseMove(view, point, event);
 		}
