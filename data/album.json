@@ -3,6 +3,8 @@
     [
         {
             "src": "images/picasso1.jpg",
+            "image_width": 763,
+            "image_height": 800,
             "title": "Les Demoiselles d'Avignon",
             "artist": "Pablo Picasso",
             "description": "Les Demoiselles d’Avignon marks a radical break from traditional composition and perspective in painting. It depicts five naked women with figures composed of flat, splintered planes and faces inspired by Iberian sculpture and African masks.",
