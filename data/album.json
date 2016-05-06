@@ -3,206 +3,271 @@
     [
         {
             "src": "images/picasso1.jpg",
-            "image_width": 763,
-            "image_height": 800,
             "title": "Les Demoiselles d'Avignon",
-            "artist": "Pablo Picasso",
+            "artists": ["Pablo Picasso"],
             "description": "Les Demoiselles d’Avignon marks a radical break from traditional composition and perspective in painting. It depicts five naked women with figures composed of flat, splintered planes and faces inspired by Iberian sculpture and African masks.",
-            "current_location": "Museum of Modern Art",
+            "currentLocation": "Museum of Modern Art",
             "period": "Cubism",
             "year": "1907",
-            "origin_location": "Paris",
+            "originLocation": "Paris",
             "medium": "Oil on canvas",
-            "dimensions": ["96", "92", "in"],
+            "actualSize": {
+                "height":"96",
+                "width": "92",
+                "unit": "in"
+            },
             "annotations":
             [
 			{
-				"type":"ellipse",
-				"relative_x": 0.25,
-				"relative_y": 0.2,
-                "relative_height": 0.15,
-                "relative_width": 0.1,
+				"shapeType":"ellipse",
+                "relativeSegmentPoints":
+                [
+                    {
+                        "x": 0.1,
+                        "y": 0.2
+                    },
+                    {
+                        "x": 0.12,
+                        "y": 0.22
+                    },
+                    {
+                        "x": 0.08,
+                        "y": 0.2
+                    },
+                    {
+                        "x": 0.10,
+                        "y": 0.18
+                    }
+                ],
                 "text":"Facing away, shows ignorance",
                 "comments":
                 [
                     {
-                        "user":"Jane Doe",
                         "text":"great annotation. now i understand better!"
                     },
                     {
-                        "user":"June Day",
                         "text":"I think you dont understand what you are saying"
                     },
                     {
-                        "user":"Elder Cunningham",
                         "text":"I really like how you say about that painting"
                     },
                     {
-                        "user":"Calter Smith",
                         "text":"Doesn't make sense to me. I think you are just talking rubbish"
                     }
                 ]
 			},
 			{
-				"type":"rectangle",
-				"relative_x": 0.8,
-				"relative_y": 0.15,
-				"relative_height": 0.15,
-				"relative_width": 0.1,
+				"shapeType":"rectangle",
+				"relativeSegmentPoints":
+                [
+                    {
+                        "x": 0.3,
+                        "y": 0.4
+                    },
+                    {
+                        "x": 0.32,
+                        "y": 0.4
+                    },
+                    {
+                        "x": 0.32,
+                        "y": 0.42
+                    },
+                    {
+                        "x": 0.3,
+                        "y": 0.42
+                    }
+                ],
                 "text": "Represents a mask, African art's influence on Picasso's work",
                 "comments":
                 [
                     {
-                        "user":"Kane Toe",
                         "text":"bad text. wont read again. i am sick of reading this"
                     },
                     {
-                        "user":"Juke Say",
                         "text":"Wow! very insightful, but you are a little bit inaccurate"
                     },
                     {
-                        "user":"Elder Price",
                         "text":"I think I want to go to the market."
                     },
                     {
-                        "user":"Calter Samsonian",
                         "text":"Totally make sense! Lorem Ipsum!!!"
                     }
                 ]
 			},
 			{
-				"type":"ellipse",
-				"relative_x": 0.53,
-				"relative_y": 0.9,
-				"relative_height": 0.2,
-				"relative_width": 0.15,
+				"shapeType":"ellipse",
+				"relativeSegmentPoints":
+                [
+                    {
+                        "x": 0.7,
+                        "y": 0.6
+                    },
+                    {
+                        "x": 0.72,
+                        "y": 0.82
+                    },
+                    {
+                        "x": 0.68,
+                        "y": 0.8
+                    },
+                    {
+                        "x": 0.70,
+                        "y": 0.88
+                    }
+                ],
                 "text": "a scything blade of melon with testicular grapes, an apple and a pear",
                 "comments":
                 [
                     {
-                        "user":"Jane Donworryboutathing",
                         "text":"great annotation. now i understand better!"
                     },
                     {
-                        "user":"June Day",
                         "text":"I think you dont understand what you are saying"
                     },
                     {
-                        "user":"Elder Cunningham",
                         "text":"I really like how you say about that painting"
                     },
                     {
-                        "user":"Calter Smith",
                         "text":"Doesn't make sense to me. I think you are just talking rubbish"
                     }
                 ]
 			},
 			{
-				"type":"ellipse",
-				"relative_x": 0.8,
-				"relative_y": 0.45,
-                "relative_height": 0.2,
-                "relative_width": 0.15,
+				"shapeType":"ellipse",
+				"relativeSegmentPoints":
+                [
+                    {
+                        "x": 0.5,
+                        "y": 0.6
+                    },
+                    {
+                        "x": 0.52,
+                        "y": 0.62
+                    },
+                    {
+                        "x": 0.48,
+                        "y": 0.6
+                    },
+                    {
+                        "x": 0.60,
+                        "y": 0.68
+                    }
+                ],
                 "text": "Facing back and stares directly to the audience",
                 "comments":
                 [
                     {
-                        "user":"Jane Doe",
                         "text":"great annotation. now i understand better!"
                     },
                     {
-                        "user":"June Day",
                         "text":"I think you dont understand what you are saying"
                     },
                     {
-                        "user":"Elder Cunningham",
                         "text":"I really like how you say about that painting"
                     },
                     {
-                        "user":"Calter Smith",
                         "text":"Doesn't make sense to me. I think you are just talking rubbish"
                     }
                 ]
 			},
             {
-                "type":"ellipse",
-                "relative_x": 0.405,
-                "relative_y": 0.255,
-                "relative_height": 0.01,
-                "relative_width": 0.01,
+                "shapeType":"ellipse",
+                "relativeSegmentPoints":
+                [
+                    {
+                        "x": 0.4,
+                        "y": 0.3
+                    },
+                    {
+                        "x": 0.42,
+                        "y": 0.52
+                    },
+                    {
+                        "x": 0.38,
+                        "y": 0.4
+                    },
+                    {
+                        "x": 0.40,
+                        "y": 0.58
+                    }
+                ],
                 "text": "Intimidating the audience by staring",
                 "comments":
                 [
                     {
-                        "user":"Jane Doe",
                         "text":"great annotation. now i understand better!"
                     },
                     {
-                        "user":"June Day",
                         "text":"I think you dont understand what you are saying"
                     },
                     {
-                        "user":"Elder Cunningham",
                         "text":"I really like how you say about that painting"
                     },
                     {
-                        "user":"Calter Smith",
                         "text":"Doesn't make sense to me. I think you are just talking rubbish"
                     }
                 ]
             },
             {
-                "type":"line",
-                "relative_x1": 0.505,
-                "relative_y1": 0.355,
-                "relative_x2": 0.455,
-                "relative_y2": 0.155,
+                "shapeType":"line",
+                "relativeSegmentPoints":
+                [
+                    {
+                        "x": 0.505,
+                        "y": 0.355
+                    },
+                    {
+                        "x": 0.455,
+                        "y": 0.155
+                    }
+                ],
                 "text": "This line is awesome",
                 "comments":
                 [
                     {
-                        "user":"July Day",
                         "text":"great annotation!!!!!!!!. now i understand better!"
                     },
                     {
-                        "user":"June Night",
                         "text":"I think you dont understand what you are saying"
                     },
                     {
-                        "user":"Younger Cunningham",
                         "text":"I really like how you say about that painting. not."
                     },
                     {
-                        "user":"Calter Brown",
                         "text":"Doesn't make sense to me. I think you are just talking gibberish"
                     }
                 ]
             },
             {
-                "type":"triangle",
-                "relative_x1": 0.205,
-                "relative_y1": 0.855,
-                "relative_x2": 0.455,
-                "relative_y2": 0.755,
-                "relative_x3": 0.355,
-                "relative_y3": 0.505,
+                "shapeType":"triangle",
+                "relativeSegmentPoints":
+                [
+                    {
+                        "x": 0.205,
+                        "y": 0.855
+                    },
+                    {
+                        "x": 0.455,
+                        "y": 0.755
+                    },
+                    {
+                        "x": 0.355,
+                        "y": 0.505
+                    }
+                ],
                 "text": "This triangle is awesome",
                 "comments":
                 [
                     {
-                        "user":"July Day",
                         "text":"great annotation!!!!!!!!. now i understand better!"
                     },
                     {
-                        "user":"June Night",
                         "text":"I think you dont understand what you are saying"
                     },
                     {
-                        "user":"Younger Cunningham",
                         "text":"I really like how you say about that painting. not."
                     },
                     {
-                        "user":"Calter Brown",
                         "text":"Doesn't make sense to me. I think you are just talking gibberish"
                     }
                 ]
